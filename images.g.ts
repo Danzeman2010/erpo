@@ -338,6 +338,26 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 .dddddddddddddddddddddddddddddddddddddddddddddddddddddddddd.
 ..dddddddddddddddddddddddddddddddddddddddddddddddddddddddd..
 `;
+            case "image7":
+            case "myImage1":return img`
+. . . . . c c c c c c c . . . . . 
+. . . . c d d d d d d d c . . . . 
+. . . c d d d d d d d d d c . . . 
+. . c d d d d d d d d d d d c . . 
+. . c d d d d d d d d d d d c . . 
+. . c d d d d d d d d d d d c . . 
+. . c d d d d d d d d d d d c . . 
+. . c d d d d d d d d d d d c . . 
+. . c d d d d d d d d d d d c . . 
+. . c d d d d d d d d d d d c . . 
+. . . c d d d d d d d d d c . . . 
+. . . . c d d d d d d d c . . . . 
+. . . . . c c c c c c c . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+`;
         }
         return null;
     })

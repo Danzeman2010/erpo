@@ -24,6 +24,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "2 player2"
     },
+    "image7": {
+        "data": "hwQRABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwMzMzAAAAAAAAAAA3N3d3QwAAAAAAADA3d3d3c0AAAAAAADc3d3d3d0MAAAAAADc3d3d3d0MAAAAAADc3d3d3d0MAAAAAADc3d3d3d0MAAAAAADc3d3d3d0MAAAAAADc3d3d3d0MAAAAAADc3d3d3d0MAAAAAADA3d3d3c0AAAAAAAAA3N3d3QwAAAAAAAAAwMzMzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
